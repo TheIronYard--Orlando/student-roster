@@ -5,7 +5,7 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Small Town, USA |
-| _:dog: v :cat:_ | :bird: :snake: |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 
