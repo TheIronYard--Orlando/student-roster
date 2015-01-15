@@ -2,17 +2,16 @@
 
 ![Full Name](URL-to-IMAGE)]
 
-| _hometown_ | --- |
-| _dog v cat_ | --- |
+| _:home:_ | Small Town, USA |
+| _:dog: v :cat:_ | :bird: :snake: |
 
-## Faves!
+## Faves! :v:
 
-| _sport_  | --- |
+| _sport_  | :football: :basketball: etc |
 | _team_   | --- |
-| _drink_  | --- |
+| _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |
-| _animal_ | --- |
 
 ## Esoteric :crystal_ball:
 
