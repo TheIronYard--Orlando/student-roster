@@ -2,7 +2,7 @@
 
 ![Full Name](URL-to-IMAGE)]
 
-| _:home:_ | Small Town, USA |
+| _:house:_ | Small Town, USA |
 | _:dog: v :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
