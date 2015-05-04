@@ -1,6 +1,6 @@
-# [Full Name](https://github.com/USERNAME)
+# [Melissa Rodriguez](https://github.com/melrodbos)
 
-![Full Name](URL-to-IMAGE)]
+![Melissa Rodriguez](URL-to-IMAGE)]
 
 | category | value |
 |-----------|-------|
