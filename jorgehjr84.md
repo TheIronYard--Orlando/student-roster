@@ -1,6 +1,6 @@
-# [Full Name](https://github.com/USERNAME)
+# [Jorge Hernandez](https://github.com/)
 
-![Full Name](URL-to-IMAGE)]
+![Jorge Hernandez](https://avatars1.githubusercontent.com/u/12106376?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
