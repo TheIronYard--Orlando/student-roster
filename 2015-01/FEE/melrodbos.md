@@ -1,6 +1,6 @@
 # [Melissa Rodriguez](https://github.com/melrodbos)
 
-![Melissa Rodriguez](URL-to-IMAGE)]
+![Melissa Rodriguez](https://github.com/al-the-x)]
 
 | category | value |
 |-----------|-------|
