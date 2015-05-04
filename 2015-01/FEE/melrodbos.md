@@ -1,6 +1,6 @@
 # [Melissa Rodriguez](https://github.com/melrodbos)
 
-![Melissa Rodriguez](https://avatars1.githubusercontent.com/u/96015?v=3&s=400)]
+![Melissa Rodriguez](https://avatars0.githubusercontent.com/u/12171924?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
