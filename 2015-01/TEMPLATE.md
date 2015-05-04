@@ -1,6 +1,6 @@
-# [Full Name](https://github.com/USERNAME)
+# [Michael Staehling](https://github.com/MStaehling)
 
-![Full Name](URL-to-IMAGE)]
+![Michael Staehling](https://avatars2.githubusercontent.com/u/7108911?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
