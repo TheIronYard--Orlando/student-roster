@@ -1,6 +1,6 @@
 # [Ben Forbes Griffith](https://github.com/Epicurean306)
 
-![Benjamin Forbes Griffith](https://avatars3.githubusercontent.com/u/11682684?v=3&s=460)]
+![Benjamin Forbes Griffith](https://avatars3.githubusercontent.com/u/11682684?v=3&s=460)
 
 | category | value |
 |-----------|-------|
