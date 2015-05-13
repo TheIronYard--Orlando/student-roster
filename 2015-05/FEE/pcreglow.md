@@ -1,6 +1,6 @@
-# [Sean Joyal](https://github.com/sjoyal)
+# [Phillip Creglow](https://github.com/pcreglow)
 
-![Sean Joyal](https://avatars3.githubusercontent.com/u/11789708?v=3&s=460)]
+![Phillip Creglow](https://avatars0.githubusercontent.com/u/11493983?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
@@ -13,8 +13,8 @@
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
-| _drink_  | NattyLight:beer: |
-| _food_   | tacos |
+| _drink_  | :beer: :wine_glass: |
+| _food_   | --- |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:

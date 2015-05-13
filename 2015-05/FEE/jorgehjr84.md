@@ -4,16 +4,16 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
+| _:house:_ | The Bronx, NY |
+| _:dog: or :cat:_ | :dog: |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
+| _sport_  | :football: |
+| _team_   | UF Gators, NY Giants |
+| _drink_  | --- |
 | _food_   | --- |
 | _movie_  | --- |
 

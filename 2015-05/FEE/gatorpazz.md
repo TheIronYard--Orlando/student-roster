@@ -1,11 +1,11 @@
-# [Sean Joyal](https://github.com/sjoyal)
+# [Michael Pascuzzi](https://github.com/gatorpazz)
 
-![Sean Joyal](https://avatars3.githubusercontent.com/u/11789708?v=3&s=460)]
+![Michael Pascuzzi](https://avatars0.githubusercontent.com/u/12232226?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
+| _:house:_ | Bradenton, Florida |
+| _:dog: or :cat:_ | :cat: :smiley_cat: |
 
 ## Faves! :v:
 
@@ -13,8 +13,8 @@
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
-| _drink_  | NattyLight:beer: |
-| _food_   | tacos |
+| _drink_  | :beer: :wine_glass: |
+| _food_   | --- |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:
