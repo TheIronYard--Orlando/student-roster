@@ -4,8 +4,8 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
+| _:house:_ | Bradenton, Florida |
+| _:dog: or :cat:_ | :cat: :smiley_cat: |
 
 ## Faves! :v:
 
