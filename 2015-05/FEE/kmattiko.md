@@ -5,7 +5,7 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Akron, Ohio |
-| _:dog: or :cat:_ | 1 _:dog: and 2 :cat:_ 's' |
+| _:dog: or :cat:_ | 1 _:dog: and 2 :cat:_  's |
 
 ## Faves! :v:
 
