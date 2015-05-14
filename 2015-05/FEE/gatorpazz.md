@@ -1,18 +1,18 @@
-# [Phillip Creglow](https://github.com/pcreglow)
+# [Michael Pascuzzi](https://github.com/gatorpazz)
 
-![Phillip Creglow](https://avatars0.githubusercontent.com/u/11493983?v=3&s=460)]
+![Michael Pascuzzi](https://avatars0.githubusercontent.com/u/12232226?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
+| _:house:_ | Bradenton, Florida |
+| _:dog: or :cat:_ | :cat: :smiley_cat: |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: |
-| _team_   | Cleveland Browns |
+| _sport_  | :football: :basketball: etc |
+| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |
