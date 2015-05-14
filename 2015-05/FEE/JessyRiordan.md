@@ -4,16 +4,16 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
+| _:house:_ | Alexandria, VA |
+| _:dog: or :cat:_ | :dog: :cat: |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
+| _sport_  | :swimming: |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
+| _drink_  | :gin: :tonic: |
 | _food_   | --- |
 | _movie_  | --- |
 
