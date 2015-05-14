@@ -13,8 +13,8 @@
 |----------|--------|
 | _sport_  | :football: |
 | _team_   | UF Gators, NY Giants |
-| _drink_  | --- |
-| _food_   | --- |
+| _drink_  | Jameson on the rocks |
+| _food_   | Chinese :rice: |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:
