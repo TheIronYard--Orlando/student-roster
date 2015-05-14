@@ -1,11 +1,11 @@
-# [Nicholas Pope](https://github.com/pope410211)
+# [Jessy Riordan](https://github.com/JessyRiordan)
 
-![Niholas Pope](https://avatars2.githubusercontent.com/u/12172658?v=3&s=460)]
+![Jessy Riordan](https://avatars3.githubusercontent.com/u/12103371?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Ft. Lauderdale, FL |
-| _:dog: or :cat:_ | :man: :bear: :pig: |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 
