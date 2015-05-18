@@ -5,13 +5,14 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Virginia Beach, VA |
+
 | _:dog: or :cat:_ | :dog: |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
+| _sport_  | :tv: :: etc |
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
