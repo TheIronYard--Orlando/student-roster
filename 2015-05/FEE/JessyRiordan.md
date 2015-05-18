@@ -10,7 +10,8 @@
 ## Faves! :v:
 | category | value |
 |----------|--------|
-| _sport_  | :swimming: :football: :basketball: etc |
+| _sport_  | :swimming: :football: :basketball: etc. |
+>>>>>>> TheIronYard--Orlando-master
 | _team_   | Washington Capitals |
 | _drink_  | :beer: :gin: :tonic: :wine_glass: |
 | _food_   |:chocolate: |
