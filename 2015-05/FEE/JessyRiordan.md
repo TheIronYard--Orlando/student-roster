@@ -10,6 +10,7 @@
 ## Faves! :v:
 | category | value |
 |----------|--------|
+<<<<<<< HEAD
 | _sport_  | :swimming: :football: :basketball: etc. |
 | _team_   | Washington Capitals |
 | _drink_  | :beer: :gin: :tonic: :wine_glass: |
