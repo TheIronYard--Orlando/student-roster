@@ -11,10 +11,11 @@
 
 | category | value |
 |----------|--------|
+
 | _sport_  | :swimming: |
-| _team_   | --- |
+| _team_   | Washington Capitals |
 | _drink_  | :gin: :tonic: |
-| _food_   | --- |
+| _food_   | Chocolate |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:
