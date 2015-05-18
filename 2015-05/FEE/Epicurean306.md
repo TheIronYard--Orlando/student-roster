@@ -4,8 +4,8 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Toledo, OH |
-| _:dog: or :cat:_ | :dragon_face: |
+| _:house:_ | Toledo, OH |D
+| _:dog: or :cat:_ | :dog: :cat: :dragon: |
 
 ## Faves! :v:
 

@@ -1,20 +1,19 @@
-# [Michael Staehling](https://github.com/MStaehling)
+# [Jessy Riordan](https://github.com/JessyRiordan)
 
-![Michael Staehling](https://avatars2.githubusercontent.com/u/7108911?v=3&s=460)]
+![Jessy Riordan](https://avatars3.githubusercontent.com/u/12103371?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Virginia Beach, VA |
-
-| _:dog: or :cat:_ | :dog: |
+| _:house:_ | Alexandria, VA |
+| _:dog: or :cat:_ | :dog: :cat: |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :tv: :: etc |
+| _sport_  | :swimming: |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
+| _drink_  | :gin: :tonic: |
 | _food_   | --- |
 | _movie_  | --- |
 
