@@ -13,8 +13,8 @@
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
+| _drink_  | NattyLight:beer: |
+| _food_   | tacos |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:

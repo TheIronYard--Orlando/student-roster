@@ -1,11 +1,11 @@
-# [Michael Pascuzzi](https://github.com/gatorpazz)
+# [Jessy Riordan](https://github.com/JessyRiordan)
 
-![Michael Pascuzzi](https://avatars0.githubusercontent.com/u/12232226?v=3&s=460)]
+![Jessy Riordan](https://avatars3.githubusercontent.com/u/12103371?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Bradenton, Florida |
-| _:dog: or :cat:_ | :cat: :smiley_cat: |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 

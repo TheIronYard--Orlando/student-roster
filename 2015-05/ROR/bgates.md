@@ -1,11 +1,11 @@
-# [Michael Pascuzzi](https://github.com/gatorpazz)
+# [Brian Gates](https://github.com/bgates)
 
-![Michael Pascuzzi](https://avatars0.githubusercontent.com/u/12232226?v=3&s=460)]
+![Brian Gates](https://avatars2.githubusercontent.com/u/381787?v=3&s=460)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Bradenton, Florida |
-| _:dog: or :cat:_ | :cat: :smiley_cat: |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 
