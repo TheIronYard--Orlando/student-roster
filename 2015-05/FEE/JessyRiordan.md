@@ -4,17 +4,16 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
+| _:house:_ | Alexandria, VA |
+| _:dog: or :cat:_ | :dog: :cat: |
 
 ## Faves! :v:
-
 | category | value |
-|----------|--------|
-| _sport_  | :football: :basketball: etc |
+|----------|--------|q
+| _sport_  | :swimming: |
 | _team_   | Washington Capitals |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | Chocolate |
+| _drink_  | :beer: :gin: :tonic: :wine_glass: |
+| _food_   |:chocolate: |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:
