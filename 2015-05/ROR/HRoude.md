@@ -1,4 +1,4 @@
-# [Heidi L. Roude](https://github.com/USERNAME)
+# [Heidi L. Roude](https://github.com/HRoude)
 
 ![Heidi L. Roude](https://avatars0.githubusercontent.com/u/12453372?v=3&s=96)
 
