@@ -10,11 +10,10 @@
 ## Faves! :v:
 | category | value |
 |----------|--------|
-| _sport_  | :swimming: |
-| _team_   | --- |
-| _drink_  | :beer: :gin: :tonic: |
+| _sport_  | :swimming: :football: :basketball: etc. |
+| _team_   | Washington Capitals |
+| _drink_  | :beer: :gin: :tonic: :wine_glass: |
 | _food_   |:chocolate: |
-=======
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:

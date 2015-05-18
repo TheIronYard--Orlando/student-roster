@@ -4,8 +4,8 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
+| _:house:_ | Akron, Ohio |
+| _:dog: or :cat:_ | 1 _:dog: and 2 :cat:_  's |
 
 ## Faves! :v:
 
