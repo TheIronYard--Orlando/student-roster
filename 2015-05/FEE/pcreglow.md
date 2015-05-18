@@ -4,8 +4,8 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
+| _:house:_ | Jackson, MI |
+| _:dog: or :cat:_ | :dog: |
 
 ## Faves! :v:
 

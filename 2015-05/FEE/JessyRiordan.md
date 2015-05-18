@@ -12,9 +12,9 @@
 | category | value |
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
-| _team_   | --- |
+| _team_   | Washington Capitals |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
+| _food_   | Chocolate |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:
