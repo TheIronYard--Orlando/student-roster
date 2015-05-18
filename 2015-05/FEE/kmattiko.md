@@ -1,17 +1,17 @@
-# [Michael Staehling](https://github.com/MStaehling)
+# [Kim Mattiko](https://github.com/kmattiko)
 
-![Michael Staehling](https://avatars2.githubusercontent.com/u/7108911?v=3&s=460)]
+![Kim Mattiko](https://avatars0.githubusercontent.com/u/12112294?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Virginia Beach, VA |
-| _:dog: or :cat:_ | :dog: |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :tv: :: etc |
+| _sport_  | :football: :basketball: etc |
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
