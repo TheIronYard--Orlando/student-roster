@@ -1,6 +1,6 @@
-# [Phillip Creglow](https://github.com/pcreglow)
+# [Brian Gates](https://github.com/bgates)
 
-![Phillip Creglow](https://avatars0.githubusercontent.com/u/11493983?v=3&s=460)]
+![Brian Gates](https://avatars2.githubusercontent.com/u/381787?v=3&s=460)
 
 | category | value |
 |-----------|-------|
@@ -11,8 +11,8 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: |
-| _team_   | Cleveland Browns |
+| _sport_  | :football: :basketball: etc |
+| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |

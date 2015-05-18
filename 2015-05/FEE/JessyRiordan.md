@@ -1,6 +1,6 @@
-# [Phillip Creglow](https://github.com/pcreglow)
+# [Jessy Riordan](https://github.com/JessyRiordan)
 
-![Phillip Creglow](https://avatars0.githubusercontent.com/u/11493983?v=3&s=460)]
+![Jessy Riordan](https://avatars3.githubusercontent.com/u/12103371?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
@@ -11,8 +11,8 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: |
-| _team_   | Cleveland Browns |
+| _sport_  | :football: :basketball: etc |
+| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |
