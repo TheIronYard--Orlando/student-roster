@@ -12,11 +12,11 @@
 
 | category | value |
 |----------|--------|
-| _sport_  |  |
+| _sport_  | --- |
 | _team_   | --- |
-| _drink_  |  |
+| _drink_  | --- |
 | _food_   | --- |
-| _movie_  |  |
+| _movie_  | --- |
 
 ## Esoteric :crystal_ball:
 
