@@ -1,11 +1,11 @@
-# [Ben Forbes Griffith](https://github.com/Epicurean306)
+# [Michael Pascuzzi](https://github.com/gatorpazz)
 
-![Benjamin Forbes Griffith](https://avatars3.githubusercontent.com/u/11682684?v=3&s=460)
+![Michael Pascuzzi](https://avatars0.githubusercontent.com/u/12232226?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Toledo, OH |D
-| _:dog: or :cat:_ | :dog: :cat: :dragon: |
+| _:house:_ | Bradenton, Florida |
+| _:dog: or :cat:_ | :cat: :smiley_cat: |
 
 ## Faves! :v:
 

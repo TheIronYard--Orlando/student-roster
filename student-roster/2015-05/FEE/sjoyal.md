@@ -1,11 +1,11 @@
-# [Ben Forbes Griffith](https://github.com/Epicurean306)
+# [Sean Joyal](https://github.com/sjoyal)
 
-![Benjamin Forbes Griffith](https://avatars3.githubusercontent.com/u/11682684?v=3&s=460)
+![Sean Joyal](https://avatars3.githubusercontent.com/u/11789708?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Toledo, OH |D
-| _:dog: or :cat:_ | :dog: :cat: :dragon: |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 
@@ -13,8 +13,8 @@
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
+| _drink_  | NattyLight:beer: |
+| _food_   | tacos |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:

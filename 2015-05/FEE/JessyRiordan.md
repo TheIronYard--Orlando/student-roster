@@ -8,10 +8,8 @@
 | _:dog: or :cat:_ | :dog: :cat: |
 
 ## Faves! :v:
-
 | category | value |
 |----------|--------|
-
 | _sport_  | :swimming: |
 | _team_   | Washington Capitals |
 | _drink_  | :gin: :tonic: |

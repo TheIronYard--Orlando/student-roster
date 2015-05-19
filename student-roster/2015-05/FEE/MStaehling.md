@@ -1,11 +1,11 @@
-# [Ben Forbes Griffith](https://github.com/Epicurean306)
+# [Michael Staehling](https://github.com/MStaehling)
 
-![Benjamin Forbes Griffith](https://avatars3.githubusercontent.com/u/11682684?v=3&s=460)
+![Michael Staehling](https://avatars2.githubusercontent.com/u/7108911?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Toledo, OH |D
-| _:dog: or :cat:_ | :dog: :cat: :dragon: |
+| _:house:_ | Virginia Beach, VA |
+| _:dog: or :cat:_ | :dog: |
 
 ## Faves! :v:
 
