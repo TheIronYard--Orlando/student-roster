@@ -4,8 +4,13 @@
 
 | category | value |
 |-----------|-------|
+<<<<<<< HEAD
 | _:house:_ | Toledo, OH |
 | _:dog: or :cat:_ | :dog2:+:smirk_cat: |
+=======
+| _:house:_ | Toledo, OH |D
+| _:dog: or :cat:_ | :dog: :cat: :dragon: |
+>>>>>>> remotes/TheIronYard--Orlando/master
 
 ## Faves! :v:
 
