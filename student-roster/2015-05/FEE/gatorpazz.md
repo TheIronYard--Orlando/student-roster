@@ -1,11 +1,11 @@
-# [Kim Mattiko](https://github.com/kmattiko)
+# [Michael Pascuzzi](https://github.com/gatorpazz)
 
-![Kim Mattiko](https://avatars0.githubusercontent.com/u/12112294?v=3&s=460)]
+![Michael Pascuzzi](https://avatars0.githubusercontent.com/u/12232226?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Akron, Ohio |
-| _:dog: or :cat:_ | 1 _:dog: and 2 :cat:_  's |
+| _:house:_ | Bradenton, Florida |
+| _:dog: or :cat:_ | :cat: :smiley_cat: |
 
 ## Faves! :v:
 

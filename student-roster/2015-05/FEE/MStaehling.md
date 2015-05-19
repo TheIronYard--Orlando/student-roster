@@ -1,11 +1,11 @@
-# [Kim Mattiko](https://github.com/kmattiko)
+# [Michael Staehling](https://github.com/MStaehling)
 
-![Kim Mattiko](https://avatars0.githubusercontent.com/u/12112294?v=3&s=460)]
+![Michael Staehling](https://avatars2.githubusercontent.com/u/7108911?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Akron, Ohio |
-| _:dog: or :cat:_ | 1 _:dog: and 2 :cat:_  's |
+| _:house:_ | Virginia Beach, VA |
+| _:dog: or :cat:_ | :dog: |
 
 ## Faves! :v:
 

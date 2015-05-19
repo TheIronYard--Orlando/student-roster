@@ -11,10 +11,10 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
+| _sport_  | --- |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
+| _drink_  | N/A -- We are made of water. |
+| _food_   | Answer D: All of the above |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:
