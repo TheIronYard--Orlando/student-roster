@@ -15,12 +15,12 @@
 | _team_   | UF Gators, NY Giants |
 | _drink_  | Jameson on the rocks |
 | _food_   | Chinese :rice: |
-| _movie_  | --- |
+| _movie_  | :poop: |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | :poop: |
+| _spirit animal_ | :poop: |
+| _celeb birthday_ | :poop: |
