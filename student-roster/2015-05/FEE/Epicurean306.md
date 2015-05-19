@@ -1,18 +1,17 @@
-# [Michael Staehling](https://github.com/MStaehling)
+# [Ben Forbes Griffith](https://github.com/Epicurean306)
 
-![Michael Staehling](https://avatars2.githubusercontent.com/u/7108911?v=3&s=460)]
+![Benjamin Forbes Griffith](https://avatars3.githubusercontent.com/u/11682684?v=3&s=460)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Virginia Beach, VA |
-
-| _:dog: or :cat:_ | :dog: |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :tv: :: etc |
+| _sport_  | :football: :basketball: etc |
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
