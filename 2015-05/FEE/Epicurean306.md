@@ -5,7 +5,7 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Toledo, OH |
-| _:dog: or :cat:_ | :dragon_face: |
+| _:dog: or :cat:_ | :dog2:+:smirk_cat: |
 
 ## Faves! :v:
 
@@ -13,14 +13,14 @@
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
+| _drink_  | :beer: :wine: :coffee: :tea: |
+| _food_   | :sushi::meat_on_bone: |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
+| _zodiac_ | classical=:taurus:, sidereal=:aries: |
+| _spirit animal_ | :dragon_face: |
 | _celeb birthday_ | --- |
