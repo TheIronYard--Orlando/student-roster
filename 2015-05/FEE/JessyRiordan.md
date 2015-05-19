@@ -21,5 +21,5 @@
 | category | value |
 |----------|-------|
 | _zodiac_ | --- |
-| _spirit animal_ | --- |
+| _spirit animal_ | :tiger: |
 | _celeb birthday_ | --- |

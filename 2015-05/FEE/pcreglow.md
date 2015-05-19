@@ -15,7 +15,7 @@
 | _team_   | Cleveland Browns |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
-| _movie_  | --- |
+| _movie_  | Tombstone |
 
 ## Esoteric :crystal_ball:
 
