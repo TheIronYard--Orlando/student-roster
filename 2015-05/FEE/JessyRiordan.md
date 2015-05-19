@@ -14,6 +14,8 @@
 | _team_   | Washington Capitals |
 | _drink_  | :gin: :tonic: |
 | _food_   | Chocolate |
+| _drink_  | :beer: :gin: :tonic: :wine_glass: |
+| _food_   |:chocolate: |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:
