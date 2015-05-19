@@ -5,17 +5,17 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Virginia Beach, VA |
-| _:dog: or :cat:_ | :: :: |
+| _:dog: or :cat:_ |  |
 
-## Faves! :v:
+## Faves! :tv: :video_game:
 
 | category | value |
 |----------|--------|
-| _sport_  | :tv: :: etc |
+| _sport_  |  |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
+| _drink_  |  |
 | _food_   | --- |
-| _movie_  | --- |
+| _movie_  |  |
 
 ## Esoteric :crystal_ball:
 
