@@ -11,10 +11,10 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
-| _drink_  | :beer: :wine: :coffee: :tea: |
-| _food_   | :sushi::meat_on_bone: |
+| _sport_  | :sailboat: |
+| _team_   | :godmode: |
+| _drink_  | :beer: :wine_glass: :coffee: :tea: |
+| _food_   | :sushi: :meat_on_bone: |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:
