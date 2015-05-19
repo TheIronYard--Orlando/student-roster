@@ -16,12 +16,12 @@
 | _food_   | Chocolate |
 | _drink_  | :beer: :gin: :tonic: :wine_glass: |
 | _food_   |:chocolate: |
-| _movie_  | --- |
+| _movie_  | Ferris Buelers Day Off |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
+| _zodiac_ | :dancers: |
 | _spirit animal_ | --- |
 | _celeb birthday_ | --- |
