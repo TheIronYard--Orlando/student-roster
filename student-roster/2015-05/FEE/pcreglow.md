@@ -1,18 +1,18 @@
-# [Kim Mattiko](https://github.com/kmattiko)
+# [Phillip Creglow](https://github.com/pcreglow)
 
-![Kim Mattiko](https://avatars0.githubusercontent.com/u/12112294?v=3&s=460)]
+![Phillip Creglow](https://avatars0.githubusercontent.com/u/11493983?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Akron, Ohio |
-| _:dog: or :cat:_ | 1 _:dog: and 2 :cat:_  's |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
+| _sport_  | :football: |
+| _team_   | Cleveland Browns |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |

@@ -4,8 +4,8 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
+| _:house:_ | Bradenton, Florida |
+| _:dog: or :cat:_ | :cat: :smiley_cat: |
 
 ## Faves! :v:
 
@@ -14,8 +14,8 @@
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
-| _movie_  | --- |
+| _food_   | :sheep: |
+| _movie_  | "There will be blood" |
 
 ## Esoteric :crystal_ball:
 

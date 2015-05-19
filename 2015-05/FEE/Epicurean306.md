@@ -4,8 +4,8 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
+| _:house:_ | Toledo, OH |D
+| _:dog: or :cat:_ | :dog: :cat: :dragon: |
 
 ## Faves! :v:
 

@@ -1,11 +1,11 @@
-# [Kim Mattiko](https://github.com/kmattiko)
+# [Brian Gates](https://github.com/bgates)
 
-![Kim Mattiko](https://avatars0.githubusercontent.com/u/12112294?v=3&s=460)]
+![Brian Gates](https://avatars2.githubusercontent.com/u/381787?v=3&s=460)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Akron, Ohio |
-| _:dog: or :cat:_ | 1 _:dog: and 2 :cat:_  's |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 
