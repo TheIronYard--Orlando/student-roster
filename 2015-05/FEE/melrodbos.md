@@ -21,6 +21,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
+| _zodiac_ | aries |
 | _spirit animal_ | --- |
 | _celeb birthday_ | --- |
