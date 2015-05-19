@@ -1,16 +1,14 @@
 # [Michael Staehling](https://github.com/MStaehling)
 
-![Michael Staehling](https://avatars2.githubusercontent.com/u/7108911?v=3&s=460)]
+![Michael Staehling]
+(https://avatars2.githubusercontent.com/u/7108911?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
 | _:house:_ | Virginia Beach, VA |
-<<<<<<< HEAD
-| _:dog: or :cat:_ |  |
+| _:dog: or :cat:_ | :dog: |
 =======
 
-| _:dog: or :cat:_ | :dog: |
->>>>>>> 99fce21fbf796cbc77b0d959c2da423f12f60c82
 
 ## Faves! :tv: :video_game:
 
