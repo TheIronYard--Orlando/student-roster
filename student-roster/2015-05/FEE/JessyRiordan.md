@@ -1,19 +1,19 @@
-# [Kim Mattiko](https://github.com/kmattiko)
+# [Jessy Riordan](https://github.com/JessyRiordan)
 
-![Kim Mattiko](https://avatars0.githubusercontent.com/u/12112294?v=3&s=460)]
+![Jessy Riordan](https://avatars3.githubusercontent.com/u/12103371?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Akron, Ohio |
-| _:dog: or :cat:_ | 1 _:dog: and 2 :cat:_  's |
+| _:house:_ | Alexandria, VA |
+| _:dog: or :cat:_ | :dog: :cat: |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
+| _sport_  | :swimming: |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
+| _drink_  | :gin: :tonic: |
 | _food_   | --- |
 | _movie_  | --- |
 
