@@ -11,7 +11,7 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
+| _sport_  | :football: :sailboat: etc |
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
