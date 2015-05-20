@@ -21,6 +21,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | Gemini |
+| _spirit animal_ | Alligator |
+| _celeb birthday_ | Wynona Judd |

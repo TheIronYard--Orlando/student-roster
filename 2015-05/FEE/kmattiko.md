@@ -11,16 +11,16 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
+| _sport_  | :football: |
+| _team_   | Browns |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
+| _food_   | :Eggplant: |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
+| _zodiac_ | :libra: |
+| _spirit animal_ | :wolf:  |
 | _celeb birthday_ | --- |

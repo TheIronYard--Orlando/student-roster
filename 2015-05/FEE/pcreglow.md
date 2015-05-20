@@ -21,6 +21,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | Sagittarius |
+| _spirit animal_ | Deer |
+| _celeb birthday_ | Bill Nye |
