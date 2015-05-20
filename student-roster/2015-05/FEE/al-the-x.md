@@ -1,11 +1,11 @@
-# [Kim Mattiko](https://github.com/kmattiko)
+# [David Rogers](https://github.com/al-the-x)
 
-![Kim Mattiko](https://avatars0.githubusercontent.com/u/12112294?v=3&s=460)]
+![David Rogers](https://avatars3.githubusercontent.com/u/96015?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Akron, Ohio |
-| _:dog: or :cat:_ | 1 _:dog: and 2 :cat:_  's |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 
