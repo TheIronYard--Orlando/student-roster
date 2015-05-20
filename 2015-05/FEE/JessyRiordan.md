@@ -10,17 +10,16 @@
 ## Faves! :v:
 | category | value |
 |----------|--------|
-| _sport_  | :swimming: :football: :basketball: etc. |
->>>>>>> TheIronYard--Orlando-master
+| _sport_  | :swimmer: |
 | _team_   | Washington Capitals |
-| _drink_  | :beer: :gin: :tonic: :wine_glass: |
+| _drink_  | :beer: gin & tonic :wine_glass: |
 | _food_   |:chocolate: |
-| _movie_  | --- |
+| _movie_  | Ferris Bueller's Day Off |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | :gemini: |
+| _spirit animal_ | :tiger: |
+| _celeb birthday_ | Prince |

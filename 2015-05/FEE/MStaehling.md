@@ -5,10 +5,6 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Virginia Beach, VA |
-<<<<<<< HEAD
-=======
-
->>>>>>> 34f7f16c3f5c3c6bc6ec336fdead5983acacd559
 | _:dog: or :cat:_ | :dog: |
 
 ## Faves! :v:
@@ -26,5 +22,5 @@
 | category | value |
 |----------|-------|
 | _zodiac_ | --- |
-| _spirit animal_ | --- |
+| _spirit animal_ | :tiger: |
 | _celeb birthday_ | --- |

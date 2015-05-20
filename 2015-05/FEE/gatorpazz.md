@@ -21,6 +21,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | :virgo: |
+| _spirit animal_ | :cat: |
+| _celeb birthday_ | Roman Emperor Caligula |

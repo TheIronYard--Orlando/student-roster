@@ -11,16 +11,16 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
+| _sport_  | :sailing: |
+| _team_   | apathetic |
+| _drink_  | :beer: :wine_glass: :coffee: :tea: |
 | _food_   | --- |
-| _movie_  | --- |
+| _movie_  | Dai-bosatsu tôge |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | :taurus: |
+| _spirit animal_ | :dragon: |
+| _celeb birthday_ | Robert Oppenheimer |
