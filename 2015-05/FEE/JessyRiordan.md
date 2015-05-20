@@ -22,6 +22,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | :dancers: |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | :gemini: |
+| _spirit animal_ | :tiger:  |
+| _celeb birthday_ | Prince |
