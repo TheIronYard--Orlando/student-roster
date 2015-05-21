@@ -16,7 +16,7 @@
 | _team_   | Washington Redskins |
 | _drink_  | --- |
 | _food_   | --- |
-| _movie_  | --- |
+| _movie_  | "Troy" |
 
 ## Esoteric :crystal_ball:
 

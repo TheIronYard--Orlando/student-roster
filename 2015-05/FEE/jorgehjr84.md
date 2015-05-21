@@ -24,3 +24,4 @@
 | _zodiac_ | :gemini: |
 | _spirit animal_ | :deer: |
 | _celeb birthday_ | Naomi Campbell |
+
