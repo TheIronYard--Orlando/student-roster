@@ -25,3 +25,4 @@
 | _zodiac_ | :gemini: |
 | _spirit animal_ | :tiger:  |
 | _celeb birthday_ | Prince |
+
