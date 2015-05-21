@@ -11,11 +11,11 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :tv: :: etc |
-i| _team_   | --- |
+| _sport_  | :football: :basketball: etc |
+| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
-| _movie_  | "Troy" |
+| _movie_  | --- |
 
 ## Esoteric :crystal_ball:
 

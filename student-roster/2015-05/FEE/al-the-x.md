@@ -1,6 +1,6 @@
-# [Sean Joyal](https://github.com/sjoyal)
+# [David Rogers](https://github.com/al-the-x)
 
-![Sean Joyal](https://avatars3.githubusercontent.com/u/11789708?v=3&s=460)]
+![David Rogers](https://avatars3.githubusercontent.com/u/96015?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
@@ -13,15 +13,14 @@
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
-| _drink_  | NattyLight:beer: |
-| _food_   | tacos |
+| _drink_  | :beer: :wine_glass: |
+| _food_   | --- |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | Gemini |
-| _spirit animal_ | :crocodile: |
-| _celeb birthday_ | Wynona Judd |
-| _zodiac_ | :gemini: |
+| _zodiac_ | --- |
+| _spirit animal_ | --- |
+| _celeb birthday_ | --- |

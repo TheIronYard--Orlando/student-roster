@@ -11,16 +11,16 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | --- |
+| _sport_  | :football: :basketball: etc |
 | _team_   | --- |
-| _drink_  | N/A -- We are made of water. |
-| _food_   | Answer D: All of the above |
+| _drink_  | :beer: :wine_glass: |
+| _food_   | --- |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | Aries |
-| _spirit animal_ | Hawk |
-| _celeb birthday_ | Lady Gaga |
+| _zodiac_ | --- |
+| _spirit animal_ | --- |
+| _celeb birthday_ | --- |

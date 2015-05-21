@@ -4,8 +4,8 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
+| _:house:_ | Toledo, OH |D
+| _:dog: or :cat:_ | :dog: :cat: :dragon: |
 
 ## Faves! :v:
 
@@ -16,6 +16,8 @@
 | _drink_  | :beer: :wine_glass: :coffee: :tea: |
 | _food_   | :sushi: :meat_on_bone |
 | _movie_  | Dai-bosatsu tôge |
+
+
 
 ## Esoteric :crystal_ball:
 

@@ -21,7 +21,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | Gemini |
-| _spirit animal_ | :crocodile: |
-| _celeb birthday_ | Wynona Judd |
-| _zodiac_ | :gemini: |
+| _zodiac_ | --- |
+| _spirit animal_ | --- |
+| _celeb birthday_ | --- |

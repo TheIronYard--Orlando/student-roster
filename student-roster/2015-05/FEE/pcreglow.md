@@ -4,8 +4,8 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Jackson, MI |
-| _:dog: or :cat:_ | :dog: |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 
@@ -21,6 +21,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | Sagittarius |
-| _spirit animal_ | Deer |
-| _celeb birthday_ | Bill Nye |
+| _zodiac_ | --- |
+| _spirit animal_ | --- |
+| _celeb birthday_ | --- |

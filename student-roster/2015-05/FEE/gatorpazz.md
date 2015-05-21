@@ -14,13 +14,13 @@
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | :sheep: |
-| _movie_  | "There will be blood" |
+| _food_   | --- |
+| _movie_  | --- |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | Virgo |
-| _spirit animal_ | Cat |
-| _celeb birthday_ | Roman Emperor Caligula |
+| _zodiac_ | --- |
+| _spirit animal_ | --- |
+| _celeb birthday_ | --- |

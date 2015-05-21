@@ -15,6 +15,7 @@
 | _team_   | Browns |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | :Eggplant: |
+
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:
@@ -22,5 +23,4 @@
 | category | value |
 |----------|-------|
 | _zodiac_ | :libra: |
-| _spirit animal_ | :wolf:  |
-| _celeb birthday_ | --- |
+| _spirit animal_ | :wolf: |
