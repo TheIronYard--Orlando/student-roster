@@ -12,8 +12,8 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | --- |
-| _team_   | --- |
+| _sport_  | :football: |
+| _team_   | Washington Redskins |
 | _drink_  | --- |
 | _food_   | --- |
 | _movie_  | --- |

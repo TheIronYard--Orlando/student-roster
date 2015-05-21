@@ -11,11 +11,11 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
+| _sport_  | :sailboat: |
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
-| _movie_  | --- |
+| _movie_  | Dai-bosatsu toge |
 
 ## Esoteric :crystal_ball:
 
