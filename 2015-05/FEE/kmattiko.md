@@ -12,15 +12,9 @@
 | category | value |
 |----------|--------|
 | _sport_  | :football: |
-<<<<<<< HEAD
 | _team_   | Cleveland Browns |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | :eggplant: |
-=======
-| _team_   | Browns |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | :eggplant |
->>>>>>> Epicurean306/master
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:

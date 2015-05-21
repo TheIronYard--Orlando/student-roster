@@ -4,40 +4,24 @@
 
 | category | value |
 |-----------|-------|
-<<<<<<< HEAD
 | _:house:_ | Toledo, OH |
-| _:dog: or :cat:_ | :dog: :cat: :dragon: :dragon_face: |
-=======
-<<<<<<< HEAD
-| _:house:_ | Toledo, OH |
-| _:dog: or :cat:_ | :dog2:+:smirk_cat: |
-=======
-| _:house:_ | Toledo, OH |D
 | _:dog: or :cat:_ | :dog: :cat: :dragon: |
->>>>>>> remotes/TheIronYard--Orlando/master
->>>>>>> Epicurean306/master
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
 | _sport_  | :sailboat: |
-<<<<<<< HEAD
-| _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
-| _movie_  | Dai-bosatsu toge |
-=======
 | _team_   | :godmode: |
 | _drink_  | :beer: :wine_glass: :coffee: :tea: |
 | _food_   | :sushi: :meat_on_bone: |
-| _movie_  | --- |
->>>>>>> Epicurean306/master
+| _movie_  | Dai-bosatsu toge |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | classical=:taurus:, sidereal=:aries: |
-| _spirit animal_ | :dragon_face: |
-| _celeb birthday_ | --- |
+| _zodiac_ | :taurus: |
+| _spirit animal_ | :dragon: |
+| _celeb birthday_ | Robert Oppenheimer |
+

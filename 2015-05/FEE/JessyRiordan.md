@@ -10,13 +10,11 @@
 ## Faves! :v:
 | category | value |
 |----------|--------|
-| _sport_  | :swimming: |
+| _sport_  | :swimmer: |
 | _team_   | Washington Capitals |
-| _drink_  | :gin: :tonic: |
-| _food_   | Chocolate |
-| _drink_  | :beer: :gin: :tonic: :wine_glass: |
+| _drink_  | :beer: gin & tonic :wine_glass: |
 | _food_   |:chocolate: |
-| _movie_  | Ferris Buelers Day Off |
+| _movie_  | Ferris Bueller's Day Off |
 
 ## Esoteric :crystal_ball:
 
@@ -25,4 +23,5 @@
 | _zodiac_ | :gemini: |
 | _spirit animal_ | :tiger:  |
 | _celeb birthday_ | Prince |
+
 
