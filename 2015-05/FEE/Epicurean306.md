@@ -12,7 +12,7 @@
 | category | value |
 |----------|--------|
 | _sport_  | :sailboat: |
-| _team_   | :godmode: |
+| _team_   | apathetic :godmode: |
 | _drink_  | :beer: :wine_glass: :coffee: :tea: |
 | _food_   | :sushi: :meat_on_bone: |
 | _movie_  | Dai-bosatsu tôge |
@@ -21,6 +21,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | classical=:taurus:, sidereal=:aries: |
+| _zodiac_ | classical:taurus:, sidereal:aries: |
 | _spirit animal_ | :dragon_face: |
-| _celeb birthday_ | Robert Oppenheimer |
+| _celeb birthday_ | Robert Oppenheimer :bomb: |

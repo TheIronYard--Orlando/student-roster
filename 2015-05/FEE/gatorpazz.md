@@ -15,7 +15,7 @@
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | :sheep: |
-| _movie_  | "There will be blood" |
+| _movie_  | "There Will Be Blood" |
 
 ## Esoteric :crystal_ball:
 

@@ -15,7 +15,7 @@
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
-| _movie_  | --- |
+| _movie_  | "Troy" |
 
 ## Esoteric :crystal_ball:
 
