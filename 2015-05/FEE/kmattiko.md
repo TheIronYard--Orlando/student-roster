@@ -14,7 +14,7 @@
 | _sport_  | :football: |
 | _team_   | Browns |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | eggplant |
+| _food_   | :eggplant: |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:

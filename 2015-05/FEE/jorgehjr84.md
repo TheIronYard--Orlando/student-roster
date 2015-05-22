@@ -5,7 +5,7 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | The Bronx, NY |
-| _:dog: or :cat:_ | :dog: |
+| _:dog: or :cat:_ | :dog2: |
 
 ## Faves! :v:
 

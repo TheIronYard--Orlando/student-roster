@@ -23,4 +23,4 @@
 |----------|-------|
 | _zodiac_ | :sagittarius: |
 | _spirit animal_ | deer |
-| _celeb birthday_ | :Bill Nye: |
+| _celeb birthday_ | Bill Nye |

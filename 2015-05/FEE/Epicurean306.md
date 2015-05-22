@@ -4,23 +4,23 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Toledo, OH |D
-| _:dog: or :cat:_ | :dog: :cat: :dragon: |
+| _:house:_ | Toledo, OH |
+| _:dog: or :cat:_ | :dog2: :smirk_cat: :dragon: |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :sailing: |
-| _team_   | apathetic |
+| _sport_  | :sailboat: |
+| _team_   | :godmode: |
 | _drink_  | :beer: :wine_glass: :coffee: :tea: |
-| _food_   | --- |
+| _food_   | :sushi: :meat_on_bone: |
 | _movie_  | Dai-bosatsu tôge |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | :taurus: |
-| _spirit animal_ | :dragon: |
+| _zodiac_ | classical=:taurus:, sidereal=:aries: |
+| _spirit animal_ | :dragon_face: |
 | _celeb birthday_ | Robert Oppenheimer |
