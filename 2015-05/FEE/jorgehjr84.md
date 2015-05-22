@@ -15,7 +15,7 @@
 | _team_   | UF Gators, NY Giants |
 | _drink_  | Jameson on the rocks |
 | _food_   | Chinese :rice: |
-| _movie_  | --- |
+| _movie_  | Eternal Sunshine of the Spotless Mind |
 
 ## Esoteric :crystal_ball:
 
