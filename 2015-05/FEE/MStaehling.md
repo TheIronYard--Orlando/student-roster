@@ -1,22 +1,29 @@
 # [Michael Staehling](https://github.com/MStaehling)
 
-![Michael Staehling](https://avatars2.githubusercontent.com/u/7108911?v=3&s=460)]
+![Michael Staehling]
+(https://avatars2.githubusercontent.com/u/7108911?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
 | _:house:_ | Virginia Beach, VA |
-
 | _:dog: or :cat:_ | :dog: |
+=======
 
-## Faves! :v:
+
+## Faves! :tv: :video_game:
 
 | category | value |
 |----------|--------|
-| _sport_  | :tv: :: etc |
+| _sport_  |  |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
+| _drink_  |  |
 | _food_   | --- |
+
 | _movie_  | "Troy" |
+||||||| merged common ancestors
+| _movie_  | "Troy" |
+
+| _movie_  |  |
 
 ## Esoteric :crystal_ball:
 
