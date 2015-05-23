@@ -6,7 +6,7 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Virginia Beach, VA |
-| _:dog: or :cat:_ | :dog: |
+| _:dog: or :cat:_ | :dog: :cat: |
 =======
 
 
@@ -18,12 +18,7 @@
 | _team_   | --- |
 | _drink_  |  |
 | _food_   | --- |
-
 | _movie_  | "Troy" |
-||||||| merged common ancestors
-| _movie_  | "Troy" |
-
-| _movie_  |  |
 
 ## Esoteric :crystal_ball:
 
