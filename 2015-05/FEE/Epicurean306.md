@@ -12,10 +12,10 @@
 | category | value |
 |----------|--------|
 | _sport_  | :sailboat: |
-| _team_   | apathetic :godmode: |
+| _team_   | :godmode: |
 | _drink_  | :beer: :wine_glass: :coffee: :tea: |
 | _food_   | :sushi: :meat_on_bone: |
-| _movie_  | Dai-bosatsu tôge |
+| _movie_  | Dai-bosatsu toge |
 
 ## Esoteric :crystal_ball:
 

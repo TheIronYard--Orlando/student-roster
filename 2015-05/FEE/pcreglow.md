@@ -13,9 +13,9 @@
 |----------|--------|
 | _sport_  | :football: |
 | _team_   | Cleveland Browns |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
-| _movie_  | --- |
+| _drink_  | :beer: |
+| _food_   | :taco: |
+| _movie_  | Tombstone |
 
 ## Esoteric :crystal_ball:
 

@@ -12,7 +12,7 @@
 | category | value |
 |----------|--------|
 | _sport_  | :football: |
-| _team_   | Browns |
+| _team_   | Cleveland Browns |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | :eggplant: |
 | _movie_  | What Dreams May Come |

@@ -6,17 +6,15 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Virginia Beach, VA |
-| _:dog: or :cat:_ | :dog: :cat: |
-=======
-
+| _:dog: or :cat:_ | :dog: |
 
 ## Faves! :tv: :video_game:
 
 | category | value |
 |----------|--------|
-| _sport_  |  |
-| _team_   | --- |
-| _drink_  |  |
+| _sport_  | :football: |
+| _team_   | Washington Redskins |
+| _drink_  | --- |
 | _food_   | --- |
 | _movie_  | "Troy" |
 
