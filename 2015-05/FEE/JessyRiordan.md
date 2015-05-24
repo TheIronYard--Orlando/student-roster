@@ -14,12 +14,12 @@
 | _team_   | Washington Capitals |
 | _drink_  | :beer: gin tonic :wine_glass: |
 | _food_   | chocolate |
-| _movie_  | --- |
+| _movie_  | :poop: |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
+| _zodiac_ | :gemini: |
 | _spirit animal_ | :tiger: |
-| _celeb birthday_ | --- |
+| _celeb birthday_ | :princess: |

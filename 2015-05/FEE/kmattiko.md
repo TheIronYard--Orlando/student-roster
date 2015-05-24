@@ -15,12 +15,13 @@
 | _team_   | **Browns** |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | :eggplant: artichokes |
-| _movie_  | --- |
+| _movie_  | :poop: |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
+<<<<<<< HEAD
 | _zodiac_ | :libra: |
 | _spirit animal_ | :wolf: |
-| _celeb birthday_ | --- |
+| _celeb birthday_ | :poop: |

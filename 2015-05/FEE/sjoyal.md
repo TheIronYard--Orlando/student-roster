@@ -12,10 +12,10 @@
 | category | value |
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
-| _team_   | --- |
+| _team_   | :poop: |
 | _drink_  | NattyLight:beer: |
 | _food_   | tacos |
-| _movie_  | --- |
+| _movie_  | :poop: |
 
 ## Esoteric :crystal_ball:
 

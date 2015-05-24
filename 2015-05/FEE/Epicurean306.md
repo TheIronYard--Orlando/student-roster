@@ -10,17 +10,18 @@
 ## Faves! :v:
 
 | category | value |
+<<<<<<< HEAD
 |----------|------------------------------------|
-| _sport_  | :football: :sailboat: etc |
-| _team_   | --- |
+| _sport_  | :football: :sailboat: |
+| _team_   | :poop: |
 | _drink_  | :beer: :wine_glass: :beer: :beers: |
-| _food_   | --- |
-| _movie_  | --- |
+| _food_   | :poop: |
+| _movie_  | :poop: |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | :poop: |
+| _spirit animal_ | :poop: |
+| _celeb birthday_ | :poop: |

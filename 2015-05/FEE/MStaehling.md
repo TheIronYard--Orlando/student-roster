@@ -12,16 +12,16 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :tv: :: etc |
-| _team_   | --- |
+| _sport_  | :tv: etc |
+| _team_   | :poop: |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
+| _food_   | :poop: |
 | _movie_  | Troy |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | :poop: |
+| _spirit animal_ | :poop: |
+| _celeb birthday_ | :poop: |
