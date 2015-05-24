@@ -21,6 +21,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | :poop: |
-| _spirit animal_ | :poop: |
-| _celeb birthday_ | :poop: |
+| _zodiac_ | :virgo: |
+| _spirit animal_ | :cat: |
+| _celeb birthday_ | Roman Emperor Caligula |

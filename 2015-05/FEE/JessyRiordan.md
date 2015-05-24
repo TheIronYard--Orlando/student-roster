@@ -10,16 +10,20 @@
 ## Faves! :v:
 | category | value |
 |----------|--------|
-| _sport_  | :swimming: |
+| _sport_  | :swimmer: |
 | _team_   | Washington Capitals |
-| _drink_  | :beer: gin tonic :wine_glass: |
-| _food_   | chocolate |
-| _movie_  | :poop: |
+| _drink_  | :beer: gin & tonic :wine_glass: |
+| _food_   |:chocolate: |
+| _movie_  | Ferris Bueller's Day Off |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
 | _zodiac_ | :gemini: |
-| _spirit animal_ | :tiger: |
-| _celeb birthday_ | :princess: |
+| _spirit animal_ | :tiger:  |
+| _celeb birthday_ | Prince |
+
+
+
+>>>>>>> pcreglow/master

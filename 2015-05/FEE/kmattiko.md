@@ -11,8 +11,8 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | **Browns** |
+| _sport_  | :football: |
+| _team_   | Cleveland Browns |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | :eggplant: artichokes |
 | _movie_  | :poop: |
@@ -21,7 +21,6 @@
 
 | category | value |
 |----------|-------|
-<<<<<<< HEAD
 | _zodiac_ | :libra: |
 | _spirit animal_ | :wolf: |
 | _celeb birthday_ | :poop: |

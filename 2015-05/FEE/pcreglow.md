@@ -13,14 +13,14 @@
 |----------|--------|
 | _sport_  | :football: |
 | _team_   | Cleveland Browns |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | :poop: |
+| _drink_  | :beer: |
+| _food_   | :taco: |
 | _movie_  | Tombstone |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | :poop: |
-| _spirit animal_ | :poop: |
-| _celeb birthday_ | :poop: |
+| _zodiac_ | :sagittarius: |
+| _spirit animal_ | deer |
+| _celeb birthday_ | Bill Nye |

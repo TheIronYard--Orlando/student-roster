@@ -22,5 +22,5 @@
 | category | value |
 |----------|-------|
 | _zodiac_ | aries |
-| _spirit animal_ | :poop: |
-| _celeb birthday_ | :poop: |
+| _spirit animal_ | :hawk: |
+| _celeb birthday_ | Lady Gaga |

@@ -23,4 +23,4 @@
 |----------|-------|
 | _zodiac_ | :gemini: |
 | _spirit animal_ | :crocodile: |
-| _celeb birthday_ | **Wynona Judd** |
+| _celeb birthday_ | Wynona Judd |

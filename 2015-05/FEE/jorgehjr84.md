@@ -5,7 +5,7 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | The Bronx, NY |
-| _:dog: or :cat:_ | :dog: |
+| _:dog: or :cat:_ | :dog2: |
 
 ## Faves! :v:
 
@@ -22,5 +22,6 @@
 | category | value |
 |----------|-------|
 | _zodiac_ | :gemini: |
-| _spirit animal_ | **deer** |
-| _celeb birthday_ | **Naomi Campbell** |
+| _spirit animal_ | :deer: |
+| _celeb birthday_ | Naomi Campbell |
+
