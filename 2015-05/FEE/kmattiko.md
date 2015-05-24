@@ -14,7 +14,7 @@
 | _sport_  | :football: |
 | _team_   | Cleveland Browns |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | :eggplant: |
+| _food_   | :eggplant: artichokes |
 | _movie_  | What Dreams May Come |
 
 ## Esoteric :crystal_ball:

@@ -12,7 +12,7 @@
 | category | value |
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
-| _team_   | --- |
+| _team_   | :poop: |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | :sheep: |
 | _movie_  | "There Will Be Blood" |

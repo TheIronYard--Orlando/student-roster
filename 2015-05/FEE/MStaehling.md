@@ -14,7 +14,7 @@
 |----------|--------|
 | _sport_  | :football: |
 | _team_   | Washington Redskins |
-| _drink_  | --- |
+| _drink_  | :beer: :wine-glass: |
 | _food_   | --- |
 | _movie_  | "Troy" |
 
