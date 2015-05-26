@@ -24,9 +24,3 @@
 | _zodiac_ | --- |
 | _spirit animal_ | --- |
 | _celeb birthday_ | --- |
-
-## Randomness
-
-| category | value |
-|----------|-------|
-| _handedness_:hand: | right or left |
