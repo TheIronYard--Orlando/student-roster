@@ -5,7 +5,7 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Orlando, FL |
-| _:dog: or :cat:_ | :bird: :snake: |
+| _:dog:    | Penny |
 
 ## Faves! :v:
 
