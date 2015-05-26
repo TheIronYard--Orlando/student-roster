@@ -5,7 +5,6 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Virginia Beach, VA |
-
 | _:dog: or :cat:_ | :dog: |
 
 ## Faves! :v:
@@ -13,10 +12,10 @@
 | category | value |
 |----------|--------|
 | _sport_  | :tv: :: etc |
-| _team_   | --- |
+i| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
-| _movie_  | --- |
+| _movie_  | "Troy" |
 
 ## Esoteric :crystal_ball:
 

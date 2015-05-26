@@ -21,6 +21,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | Aries |
+| _spirit animal_ | Hawk |
+| _celeb birthday_ | Lady Gaga |

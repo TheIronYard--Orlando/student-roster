@@ -21,6 +21,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | Gemini |
+| _spirit animal_ | Tiger |
+| _celeb birthday_ | Prince(June 7th) |
