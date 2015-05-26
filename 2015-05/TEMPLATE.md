@@ -6,6 +6,7 @@
 |-----------|-------|
 | _:house:_ | Small Town, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
+| _birthday_ | :calendar: |
 
 ## Faves! :v:
 
