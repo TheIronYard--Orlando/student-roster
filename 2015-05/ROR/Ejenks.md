@@ -4,7 +4,7 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Orlando, USA |
+| _:house:_ |  |
 | _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
