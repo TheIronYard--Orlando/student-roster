@@ -1,6 +1,6 @@
 # [Mark Sadler](https://github.com/letrado)
 
-![Mark Sadler](URL-to-IMAGE)]
+![Mark Sadler](https://avatars2.githubusercontent.com/u/12279247?v=3&s=192)]
 
 | category | value |
 |-----------|-------|
