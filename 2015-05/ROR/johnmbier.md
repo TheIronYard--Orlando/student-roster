@@ -1,7 +1,7 @@
 
-# [johnmbier](https://github.com/USERNAME)
+# [John M. Bier](https://github.com/USERNAME)
 
-![John Bier](https://avatars3.githubusercontent.com/u/12279247?v=3&s=40)
+![John Bier](https://avatars3.githubusercontent.com/u/12451074?v=3&s=150)
 
 | category | value |
 |-----------|-------|
