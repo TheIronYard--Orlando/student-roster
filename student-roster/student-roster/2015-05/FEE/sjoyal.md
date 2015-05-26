@@ -12,15 +12,15 @@
 | category | value |
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
-| _team_   | :poop: |
+| _team_   | --- |
 | _drink_  | NattyLight:beer: |
 | _food_   | tacos |
-| _movie_  | :poop: |
+| _movie_  | --- |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | :poop: |
-| _spirit animal_ | :poop: |
-| _celeb birthday_ | :poop: |
+| _zodiac_ | --- |
+| _spirit animal_ | --- |
+| _celeb birthday_ | --- |

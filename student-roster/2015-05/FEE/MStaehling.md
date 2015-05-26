@@ -1,18 +1,19 @@
-# [Phillip Creglow](https://github.com/pcreglow)
+# [Michael Staehling](https://github.com/MStaehling)
 
-![Phillip Creglow](https://avatars0.githubusercontent.com/u/11493983?v=3&s=460)]
+![Michael Staehling](https://avatars2.githubusercontent.com/u/7108911?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Jackson, MI |
+| _:house:_ | Virginia Beach, VA |
+
 | _:dog: or :cat:_ | :dog: |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: |
-| _team_   | Cleveland Browns |
+| _sport_  | :tv: :: etc |
+| _team_   | :poop: |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | :poop: |
 | _movie_  | :poop: |

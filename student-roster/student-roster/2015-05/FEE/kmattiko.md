@@ -4,23 +4,23 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Akron, Ohio |
-| _:dog: or :cat:_ | 1 _:dog: and 2 :cat:_  's |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
-| _team_   | :poop: |
+| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | :poop: |
-| _movie_  | :poop: |
+| _food_   | --- |
+| _movie_  | --- |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | :poop: |
-| _spirit animal_ | :poop: |
-| _celeb birthday_ | :poop: |
+| _zodiac_ | --- |
+| _spirit animal_ | --- |
+| _celeb birthday_ | --- |

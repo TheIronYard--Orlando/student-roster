@@ -4,23 +4,23 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Toledo, OH |D
-| _:dog: or :cat:_ | :dog: :cat: :dragon: |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
-| _team_   | :poop: |
+| _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | :poop: |
-| _movie_  | :poop: |
+| _food_   | --- |
+| _movie_  | --- |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | :poop: |
-| _spirit animal_ | :poop: |
-| _celeb birthday_ | :poop: |
+| _zodiac_ | --- |
+| _spirit animal_ | --- |
+| _celeb birthday_ | --- |
