@@ -16,6 +16,7 @@
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |
+| _book_   | :book: |
 
 ## Esoteric :crystal_ball:
 
@@ -24,3 +25,4 @@
 | _zodiac_ | --- |
 | _spirit animal_ | --- |
 | _celeb birthday_ | --- |
+| _chinese zodiac_ | :dragon: |
