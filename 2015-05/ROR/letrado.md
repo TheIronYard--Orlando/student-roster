@@ -5,7 +5,7 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Marietta, PA, USA |
-|   none   | :bird: :snake: |
+|   none    | none    |
 
 ## Faves! :v:
 
