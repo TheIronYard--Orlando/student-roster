@@ -5,7 +5,7 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Orlando, FL |
-| _:dog:    | Penny |
+|  :dog:    | Penny |
 
 ## Faves! :v:
 
@@ -13,7 +13,7 @@
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
+| _drink_  | :beer:                      |
 | _food_   | --- |
 | _movie_  | --- |
 
