@@ -16,6 +16,7 @@
 | _drink_  | N/A -- We are made of water. |
 | _food_   | Answer D: All of the above |
 | _movie_  | :poop: |
+| _book_   | :poop: |
 
 ## Esoteric :crystal_ball:
 
