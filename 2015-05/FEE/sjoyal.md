@@ -16,6 +16,7 @@
 | _drink_  | NattyLight:beer: |
 | _food_   | tacos |
 | _movie_  | :poop: |
+| _book_   | :poop: |
 
 ## Esoteric :crystal_ball:
 
