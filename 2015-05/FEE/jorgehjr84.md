@@ -16,6 +16,7 @@
 | _drink_  | Jameson on the rocks |
 | _food_   | Chinese :rice: |
 | _movie_  | :poop: |
+| _book_   | :poop: |
 
 ## Esoteric :crystal_ball:
 
