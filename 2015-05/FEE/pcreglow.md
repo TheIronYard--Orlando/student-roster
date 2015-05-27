@@ -16,6 +16,7 @@
 | _drink_  | :beer: :wine_glass: |
 | _food_   | :poop: |
 | _movie_  | :poop: |
+| _book_   | :poop: |
 
 ## Esoteric :crystal_ball:
 
