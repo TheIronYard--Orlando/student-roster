@@ -16,6 +16,7 @@
 | _drink_  | :beer: :wine_glass: |
 | _food_   | :sheep: |
 | _movie_  | "There will be blood" |
+| _book_   | :wizard: |
 
 ## Esoteric :crystal_ball:
 
