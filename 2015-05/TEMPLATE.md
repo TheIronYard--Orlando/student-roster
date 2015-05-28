@@ -17,6 +17,8 @@
 | _food_   | --- |
 | _movie_  | --- |
 | _book_  | :books: |
+| _travel_ | :earth_americas: |
+| _craft_  | :art: |
 
 ## Esoteric :crystal_ball:
 
