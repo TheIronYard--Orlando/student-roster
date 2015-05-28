@@ -16,6 +16,8 @@
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |
+|_travel_  | :passport_control: |
+|_creative_| :art: |
 
 ## Esoteric :crystal_ball:
 
