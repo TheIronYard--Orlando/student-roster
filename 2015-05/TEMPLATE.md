@@ -25,3 +25,7 @@
 | _zodiac_ | --- |
 | _spirit animal_ | --- |
 | _celeb birthday_ | --- |
+
+
+## Apple Fanboy/Fangirl?? 
+| :iphone: | Y/N |
