@@ -10,10 +10,10 @@
 ## Faves! :v:
 
 | category | value |
-|----------|--------|
-| _sport_  | :football: :basketball: etc |
+|----------|------------------------------------|
+| _sport_  | :football: :sailboat: etc |
 | _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
+| _drink_  | :beer: :wine_glass: :beer: :beers: |
 | _food_   | --- |
 | _movie_  | --- |
 
