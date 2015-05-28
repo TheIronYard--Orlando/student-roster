@@ -26,6 +26,13 @@
 | _spirit animal_ | --- |
 | _celeb birthday_ | --- |
 
-
-## Apple Fanboy/Fangirl?? 
+## Apple Fanboy/Fangirl??
 | :iphone: | Y/N |
+
+## Theme Parks!
+| category | value |
+|----------|--------|
+| _:ferris_wheel: or :roller_coaster:_ | --- |
+| _:monorail: or :bus:_ | --- |
+| _:poultry_leg: or :hamburger:_ | --- |
+| _:mouse: or :earth_americas:_| --- |
