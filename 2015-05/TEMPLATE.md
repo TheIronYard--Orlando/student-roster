@@ -47,3 +47,9 @@
 +| _hat_ | --- |
 +| _clothing_ | --- |
 +| _shoes_ | --- |
+
+## Randomness
+
+| category        | value                        |
+|-----------------|------------------------------|
+| _:hand:-edness_ | :point_left: / :point_right: |
