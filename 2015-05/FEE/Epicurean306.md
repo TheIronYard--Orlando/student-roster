@@ -4,23 +4,34 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Toledo, OH |D
+| _:house:_ | Toledo, OH |
 | _:dog: or :cat:_ | :dog: :cat: :dragon: |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
-| _movie_  | --- |
+<<<<<<< HEAD
+| _sport_  | :sailboat: |
+| _team_   | :godmode: |
+| _drink_  | :beer: :wine_glass: :coffee: :tea: |
+| _food_   | :sushi: :meat_on_bone: |
+| _movie_  | Dai-bosatsu toge |
+=======
+| _sport_  | :sailing: |
+| _team_   | apathetic :godmode: |
+| _drink_  | :beer: :wine_glass: :coffee: :tea: |
+| _food_   | :sushi: :meat_on_bone |
+| _movie_  | Dai-bosatsu tôge |
+
+
+>>>>>>> jorgehjr84/master
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | classical:taurus:, sidereal:aries: |
+| _spirit animal_ | :dragon_face: |
+| _celeb birthday_ | Robert Oppenheimer :bomb: |
+
