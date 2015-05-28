@@ -36,3 +36,11 @@
 | _:monorail: or :bus:_ | --- |
 | _:poultry_leg: or :hamburger:_ | --- |
 | _:mouse: or :earth_americas:_| --- |
+
+## Fashion Style :bowtie:
++
++| category | value |
++|----------|-------|
++| _hat_ | --- |
++| _clothing_ | --- |
++| _shoes_ | --- |
