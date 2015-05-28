@@ -22,5 +22,5 @@
 | category | value |
 |----------|-------|
 | _zodiac_ | --- |
-| _spirit animal_ | --- |
+| _spirit animal_ | :cat: |
 | _celeb birthday_ | --- |

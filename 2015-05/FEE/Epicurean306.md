@@ -4,23 +4,28 @@
 
 | category | value |
 |-----------|-------|
+<<<<<<< HEAD
+| _:house:_ | Toledo, OH |
+| _:dog: or :cat:_ | :dog2:+:smirk_cat: |
+=======
 | _:house:_ | Toledo, OH |D
 | _:dog: or :cat:_ | :dog: :cat: :dragon: |
+>>>>>>> remotes/TheIronYard--Orlando/master
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
-| _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
+| _sport_  | :sailboat: |
+| _team_   | :godmode: |
+| _drink_  | :beer: :wine_glass: :coffee: :tea: |
+| _food_   | :sushi: :meat_on_bone: |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
+| _zodiac_ | classical=:taurus:, sidereal=:aries: |
+| _spirit animal_ | :dragon_face: |
 | _celeb birthday_ | --- |
