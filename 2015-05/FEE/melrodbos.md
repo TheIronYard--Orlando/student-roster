@@ -11,16 +11,16 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | --- |
-| _team_   | --- |
+| _sport_  | :poop: |
+| _team_   | :poop: |
 | _drink_  | N/A -- We are made of water. |
 | _food_   | Answer D: All of the above |
-| _movie_  | --- |
+| _movie_  | :poop: |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | aries |
+| _spirit animal_ | :hawk: |
+| _celeb birthday_ | Lady Gaga |

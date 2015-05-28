@@ -12,7 +12,7 @@
 | category | value |
 |----------|--------|
 | _sport_  | :football: :basketball: etc |
-| _team_   | --- |
+| _team_   | :poop: |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | :sheep: |
 | _movie_  | "There will be blood" |
@@ -21,6 +21,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | :virgo: |
+| _spirit animal_ | :cat: |
+| _celeb birthday_ | Roman Emperor Caligula |

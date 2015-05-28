@@ -5,7 +5,7 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | The Bronx, NY |
-| _:dog: or :cat:_ | :dog: |
+| _:dog: or :cat:_ | :dog2: |
 
 ## Faves! :v:
 
@@ -15,12 +15,13 @@
 | _team_   | UF Gators, NY Giants |
 | _drink_  | Jameson on the rocks |
 | _food_   | Chinese :rice: |
-| _movie_  | --- |
+| _movie_  | :poop: |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | :gemini: |
+| _spirit animal_ | :deer: |
+| _celeb birthday_ | Naomi Campbell |
+
