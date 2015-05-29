@@ -6,16 +6,20 @@
 |-----------|-------|
 | _:house:_ | Small Town, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
+| _:birthday:_ |
 
 ## Faves! :v:
 
 | category | value |
 |----------|--------|
-| _sport_  | --- |
-| _team_   | --- |
+| _sport_  | _:soccer:_ |
+| _team_   | _Barca_ |
 | _drink_  | N/A -- We are made of water. |
 | _food_   | Answer D: All of the above |
-| _movie_  | --- |
+| _movie_  | _Amelie_ |
+| _book_ | _100 Years of Solitude_ |
+| _travel_ | _Puerto Rico & Barcelona, Spain_ |
+| _craft_ | _painting_ |
 
 ## Esoteric :crystal_ball:
 
@@ -24,3 +28,28 @@
 | _zodiac_ | --- |
 | _spirit animal_ | --- |
 | _celeb birthday_ | --- |
+
+## Apple Fanboy/Fangirl??
+| :iphone: | _Yes_ |
+
+## Theme Parks!
+| category | value |
+|----------|--------|
+| _:ferris_wheel: or :roller_coaster:_ | _No, thank you_ |
+| _:monorail: or :bus:_ | _:monorail:_ |
+| _:poultry_leg: or :hamburger:_ | _:hamburger:_ |
+| _:mouse: or :earth_americas:_| _:earth_americas:_ |
+
+## Fashion Style :bowtie:
++
++| category | value |
++|----------|-------|
++| _hat_ | --- |
++| _clothing_ | --- |
++| _shoes_ | --- |
+
+## Randomness
+
+| category        | value                        |
+|-----------------|------------------------------|
+| _:hand:-edness_ | :point_right: |
