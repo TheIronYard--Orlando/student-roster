@@ -41,12 +41,11 @@
 | _:mouse: or :earth_americas:_| --- |
 
 ## Fashion Style :bowtie:
-+
-+| category | value |
-+|----------|-------|
-+| _hat_ | --- |
-+| _clothing_ | --- |
-+| _shoes_ | --- |
+| category | value |
+|----------|-------|
+| _hat_ | --- |
+| _clothing_ | --- |
+| _shoes_ | --- |
 
 ## Randomness
 
