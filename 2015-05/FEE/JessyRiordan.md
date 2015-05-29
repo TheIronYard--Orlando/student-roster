@@ -20,6 +20,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | :dancers: |
+| _zodiac_ | :gemini: |
 | _spirit animal_ | :tiger: |
 | _celeb birthday_ | :princess: |
