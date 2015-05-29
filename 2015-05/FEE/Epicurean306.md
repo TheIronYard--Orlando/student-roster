@@ -24,3 +24,32 @@
 | _zodiac_ | --- |
 | _spirit animal_ | --- |
 | _celeb birthday_ | --- |
+
+## Apple Fanboy/Fangirl??
+| :iphone: | Y/N |
+
+## Theme Parks!
+| category | value |
+|----------|--------|
+| _:ferris_wheel: or :roller_coaster:_ | :roller_coaster: |
+| _:monorail: or :bus:_ | :train2: |
+| _:poultry_leg: or :hamburger:_ | :hamburger: |
+| _:mouse: or :earth_americas:_| :earth_americas: |
+
+## Fashion Style :bowtie:
++
++| category | value |
++|----------|-------|
++| _hat_ | :squirrel: |
++| _clothing_ | :tshirt: |
++| _shoes_ | Birkenstock |
+
+## Randomness
+
+| category        | value                        |
+|-----------------|------------------------------|
+| _:hand:-edness_ | :point_right: |
+
+
+
+

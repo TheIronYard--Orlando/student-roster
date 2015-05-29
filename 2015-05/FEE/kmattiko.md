@@ -16,6 +16,9 @@
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
 | _movie_  | --- |
+| _Book_   | Clockwork Angel series |
+| _Travel_ | Colorado & Germany |
+| _Craft_  | Drawing mandalas and henna |
 
 ## Esoteric :crystal_ball:
 
