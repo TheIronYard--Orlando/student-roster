@@ -10,11 +10,10 @@
 ## Faves! :v:
 | category | value |
 |----------|--------|
-| _sport_  | :swimming: :football: :basketball: etc. |
->>>>>>> TheIronYard--Orlando-master
+| _sport_  | :swimming: |
 | _team_   | Washington Capitals |
-| _drink_  | :beer: :gin: :tonic: :wine_glass: |
-| _food_   |:chocolate: |
+| _drink_  | :beer: :gin: :tonic: |
+| _food_   | Chocolate |
 | _movie_  | --- |
 
 ## Esoteric :crystal_ball:

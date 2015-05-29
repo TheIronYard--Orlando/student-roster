@@ -5,7 +5,6 @@
 | category | value |
 |-----------|-------|
 | _:house:_ | Virginia Beach, VA |
-
 | _:dog: or :cat:_ | :dog: |
 
 ## Faves! :v:
