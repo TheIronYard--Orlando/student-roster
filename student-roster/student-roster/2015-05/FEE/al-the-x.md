@@ -1,11 +1,11 @@
-# [Michael Pascuzzi](https://github.com/gatorpazz)
+# [David Rogers](https://github.com/al-the-x)
 
-![Michael Pascuzzi](https://avatars0.githubusercontent.com/u/12232226?v=3&s=460)]
+![David Rogers](https://avatars3.githubusercontent.com/u/96015?v=3&s=460)]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Bradenton, Florida |
-| _:dog: or :cat:_ | :cat: :smiley_cat: |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 
@@ -14,8 +14,8 @@
 | _sport_  | :football: :basketball: etc |
 | _team_   | --- |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | :sheep: |
-| _movie_  | "There will be blood" |
+| _food_   | --- |
+| _movie_  | --- |
 
 ## Esoteric :crystal_ball:
 

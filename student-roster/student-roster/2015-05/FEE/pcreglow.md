@@ -4,8 +4,8 @@
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Jackson, MI |
-| _:dog: or :cat:_ | :dog: |
+| _:house:_ | Small Town, USA |
+| _:dog: or :cat:_ | :bird: :snake: |
 
 ## Faves! :v:
 
@@ -14,13 +14,13 @@
 | _sport_  | :football: |
 | _team_   | Cleveland Browns |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | :poop: |
-| _movie_  | :poop: |
+| _food_   | --- |
+| _movie_  | --- |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | :poop: |
-| _spirit animal_ | :poop: |
-| _celeb birthday_ | :poop: |
+| _zodiac_ | --- |
+| _spirit animal_ | --- |
+| _celeb birthday_ | --- |

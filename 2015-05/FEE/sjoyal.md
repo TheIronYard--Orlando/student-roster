@@ -11,16 +11,19 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
-| _drink_  | NattyLight:beer: |
-| _food_   | tacos |
-| _movie_  | --- |
+| _sport_  | :football:    |
+| _team_   | Gator/Jaguars |
+| _drink_  | NattyLight :poop: :beer: |
+| _food_   | tacos         |
+| _movie_  | The Squid and the Whale  |
+| _book_   | :book: A Heartbreaking Work of Staggering Genius |
+| _travel_ | :world: Domestic: Asheville, NC International: Paris, France |
+| _craft_  | :paint: Drums/Writing |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | Gemini |
+| _spirit animal_ | Bruce Willis |
+| _celeb birthday_ | Wynona Judd |
