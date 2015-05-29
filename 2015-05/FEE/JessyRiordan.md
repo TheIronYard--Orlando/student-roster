@@ -1,12 +1,11 @@
-# [Full Name](https://github.com/USERNAME)
+# [Jessy Riordan](https://github.com/JessyRiordan)
 
-![Full Name](URL-to-IMAGE)]
+![Jessy Riordan](https://avatars3.githubusercontent.com/u/12103371?v=3&s=460))]
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Small Town, USA |
-| _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ | _:calendar:_ |
+| _:house:_ | Alexandria, VA |
+| _:dog: or :cat:_ | :dog: :cat: |
 
 ## Faves! :v:
 
