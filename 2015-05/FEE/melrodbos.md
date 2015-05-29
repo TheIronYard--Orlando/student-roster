@@ -6,7 +6,7 @@
 |-----------|-------|
 | _:house:_ | Small Town, USA |
 | _:dog: or :cat:_ | :bird: :snake: |
-| _:birthday:_ |
+| _:birthday:_ | _March 28_ |
 
 ## Faves! :v:
 
@@ -44,9 +44,9 @@
 +
 +| category | value |
 +|----------|-------|
-+| _hat_ | --- |
-+| _clothing_ | --- |
-+| _shoes_ | --- |
++| _hat_ | _headband_ |
++| _clothing_ | _:jeans:_ |
++| _shoes_ | _trainers_ |
 
 ## Randomness
 
