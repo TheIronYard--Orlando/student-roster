@@ -22,6 +22,6 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+| _zodiac_ | :libra: |
+| _spirit animal_ | :tiger: |
+| _celeb birthday_ | Tony Dungy |
