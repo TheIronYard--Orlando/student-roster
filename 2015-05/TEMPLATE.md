@@ -48,7 +48,7 @@
 +| _clothing_ | --- |
 +| _shoes_ | --- |
 
-## Randomness test
+## Randomness
 
 | category        | value                        |
 |-----------------|------------------------------|
