@@ -11,16 +11,16 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
+| _sport_  | :football: |
+| _team_   | Cleveland Browns |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
-| _movie_  | --- |
+| _food_   | :eggplant: artichokes |
+| _movie_  | What Dreams May Come |
 
 ## Esoteric :crystal_ball:
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
-| _spirit animal_ | --- |
+| _zodiac_ | :libra: |
+| _spirit animal_ | :wolf: |
 | _celeb birthday_ | --- |
